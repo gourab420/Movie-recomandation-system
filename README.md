@@ -2,4 +2,4 @@
 Hybride Movie Recomandation system using Machine Learning Approach
 
 First install all the libeary from requirements.txt
-then run main.py
+then run app.py
